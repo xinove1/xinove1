@@ -3,7 +3,7 @@
 - Currently a student at 42 São Paulo
 - Currently a student at TECPUC
 
-* Stats
+* Stats ( comofaz org)_
 
 [[https://github-readme-stats.vercel.app/api?username=xinove1]]
 
