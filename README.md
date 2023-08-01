@@ -1,4 +1,4 @@
 
 
-- Currently Learning crablang & lisp
-- Highly interested in OS development and game development
+- Currently Learning
+- Interested in OS development and game development
