@@ -1,4 +1,5 @@
 
 
-- Currently Learning
-- Interested in OS development and game development
+- Currently doing and exploring game dev projects
+- Highly interested in OS, tools and game development.
+
